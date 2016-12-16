@@ -1,0 +1,13 @@
+a#nav-home {background: url(images/nav-home.gif) center top no-repeat;}
+a#nav-about {background: url(images/nav-about.gif) center top no-repeat;}
+a#nav-contact {background: url(images/nav-contact.gif) center top no-repeat;}
+a#nav-faq {background: url(images/nav-faq.gif) center top no-repeat;}
+#task-nav {margin-left: 30px;}
+#credit-box {background: url(images/credit-bg.gif) no-repeat;}
+#rss {background: url(images/rss.gif) left repeat-y;}
+#sidebar h2 {background: url(images/sidebar-h.gif) no-repeat;}
+#sidebar ul li {background: url(images/sidebar-bottom.gif) bottom no-repeat;}
+#sidebar ul li#about-me {background: url(images/about-bottom.gif) bottom no-repeat;}
+#about-me h2 {background: url(images/about-top.gif) no-repeat;}
+.post-top {background: url(images/post-top.gif) no-repeat;}
+.wp-pagenavi a, .wp-pagenavi span.pages, .wp-pagenavi span.current, .wp-pagenavi span.extend {padding: 2px 0; margin: 1px;}
